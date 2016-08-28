@@ -28,6 +28,10 @@ Helpful Links
 
 ### Friends
 
+* [`steam://friends/add/<id>`](steam://friends/add/76561197970552458)
+* [`steam://friends/friends/<id>`](steam://friends/friends/76561197970552458)
+* [`steam://friends/joinchat/<id>`](steam://joinchat/friends/76561197970552458)
+* [`steam://friends/message/<id>`](steam://message/friends/76561197970552458)
 * [`steam://friends/players`](steam://friends/players) - Recently played with
 
 #### Settings
