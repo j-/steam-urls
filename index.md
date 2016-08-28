@@ -1,3 +1,8 @@
+---
+title: Steam URLs
+description: Collection of Steam protocol URLs and other handy links
+---
+
 [Steam URLs][project]
 =====================
 
