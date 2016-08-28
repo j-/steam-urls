@@ -26,10 +26,6 @@ Helpful Links
 
 * [`steam://AddNonSteamGame`](steam://AddNonSteamGame)
 
-### Open
-
-* [`steam://open/friends`](steam://open/friends)
-
 ### Friends
 
 * [`steam://friends/players`](steam://friends/players) - Recently played with
@@ -51,5 +47,29 @@ Helpful Links
 * [`steam://nav/media`](steam://nav/media)
 * [`steam://nav/music`](steam://nav/music)
 * [`steam://nav/tools`](steam://nav/tools)
+
+### Open
+
+* [`steam://open/activateproduct`](steam://open/activateproduct)
+* [`steam://open/bigpicture`](steam://open/bigpicture)
+* [`steam://open/console`](steam://open/console)
+* [`steam://open/downloads`](steam://open/downloads)
+* [`steam://open/friends`](steam://open/friends)
+* [`steam://open/games`](steam://open/games)
+* [`steam://open/games/details`](steam://open/games/details)
+* [`steam://open/games/grid`](steam://open/games/grid)
+* [`steam://open/games/list`](steam://open/games/list)
+* [`steam://open/largegameslist`](steam://open/largegameslist)
+* [`steam://open/minigameslist`](steam://open/minigameslist)
+* [`steam://open/main`](steam://open/main)
+* [`steam://open/music`](steam://open/music)
+* [`steam://open/musicplayer`](steam://open/musicplayer)
+* [`steam://open/mymedia`](steam://open/mymedia)
+* [`steam://open/news`](steam://open/news)
+* [`steam://open/registerproduct`](steam://open/registerproduct)
+* [`steam://open/tools`](steam://open/tools)
+* [`steam://open/screenshots`](steam://open/screenshots)
+* [`steam://open/servers`](steam://open/servers)
+* [`steam://open/settings`](steam://open/settings)
 
 [project]: https://github.com/j-/steam-urls
