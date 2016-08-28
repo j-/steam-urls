@@ -39,7 +39,7 @@ Helpful Links
 ### Navigate
 
 * [`steam://nav/downloads`](steam://nav/downloads)
-* [`steam://nav/games/details/440`](steam://nav/games/details/<id>)
+* [`steam://nav/games/details/<id>`](steam://nav/games/details/440)
 * [`steam://nav/games/details`](steam://nav/games/details)
 * [`steam://nav/games/grid`](steam://nav/games/grid)
 * [`steam://nav/games/list`](steam://nav/games/list)
