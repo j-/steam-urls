@@ -30,4 +30,8 @@ Helpful Links
 
 * [`steam://open/friends`](steam://open/friends)
 
+### Friends
+
+* [`steam://friends/players`](steam://friends/players) - Recently played with
+
 [project]: https://github.com/j-/steam-urls
