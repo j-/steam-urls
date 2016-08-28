@@ -40,4 +40,16 @@ Helpful Links
 * [`steam://friends/settings/showavatars`](steam://friends/settings/showavatars) - Toggle "Show Avatars" setting
 * [`steam://friends/settings/sortbyname`](steam://friends/settings/sortbyname) - Toggle "Sort by Name" setting
 
+### Navigate
+
+* [`steam://nav/downloads`](steam://nav/downloads)
+* [`steam://nav/games/details/440`](steam://nav/games/details/<id>)
+* [`steam://nav/games/details`](steam://nav/games/details)
+* [`steam://nav/games/grid`](steam://nav/games/grid)
+* [`steam://nav/games/list`](steam://nav/games/list)
+* [`steam://nav/games`](steam://nav/games)
+* [`steam://nav/media`](steam://nav/media)
+* [`steam://nav/music`](steam://nav/music)
+* [`steam://nav/tools`](steam://nav/tools)
+
 [project]: https://github.com/j-/steam-urls
