@@ -16,7 +16,11 @@ Helpful Links
 `steam:` Protocol
 -----------------
 
+['Steam browser protocol' on Valve Developer Community](https://developer.valvesoftware.com/wiki/Steam_browser_protocol).
+
 ### Launch Steam
+
+['Command line options' on Valve Developer Community](https://developer.valvesoftware.com/wiki/Command_Line_Options#Steam_.28Windows.29).
 
 * [`steam://''`](steam://'') - Launch Steam
 * [`steam://'-dev'`](steam://'-dev') - Launch Steam in developer mode
