@@ -34,4 +34,10 @@ Helpful Links
 
 * [`steam://friends/players`](steam://friends/players) - Recently played with
 
+#### Settings
+
+* [`steam://friends/settings/hideoffline`](steam://friends/settings/hideoffline) - Toggle "Show Online Friends Only" setting
+* [`steam://friends/settings/showavatars`](steam://friends/settings/showavatars) - Toggle "Show Avatars" setting
+* [`steam://friends/settings/sortbyname`](steam://friends/settings/sortbyname) - Toggle "Sort by Name" setting
+
 [project]: https://github.com/j-/steam-urls
