@@ -36,6 +36,15 @@ Helpful Links
 * [`steam://friends/settings/showavatars`](steam://friends/settings/showavatars) - Toggle "Show Avatars" setting
 * [`steam://friends/settings/sortbyname`](steam://friends/settings/sortbyname) - Toggle "Sort by Name" setting
 
+#### Status
+
+* [`steam://friends/status/away`](steam://friends/status/away)
+* [`steam://friends/status/busy`](steam://friends/status/busy)
+* [`steam://friends/status/offline`](steam://friends/status/offline)
+* [`steam://friends/status/online`](steam://friends/status/online)
+* [`steam://friends/status/play`](steam://friends/status/play)
+* [`steam://friends/status/trade`](steam://friends/status/trade)
+
 ### Navigate
 
 * [`steam://nav/downloads`](steam://nav/downloads)
