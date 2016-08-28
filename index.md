@@ -26,4 +26,8 @@ Helpful Links
 
 * [`steam://AddNonSteamGame`](steam://AddNonSteamGame)
 
+### Open
+
+* [`steam://open/friends`](steam://open/friends)
+
 [project]: https://github.com/j-/steam-urls
