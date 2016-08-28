@@ -22,4 +22,8 @@ Helpful Links
 * [`steam://'-dev'`](steam://'-dev') - Launch Steam in developer mode
 * [`steam://'-console'`](steam://'-console') - Launch Steam with console (enabled but hidden)
 
+### Actions
+
+* [`steam://AddNonSteamGame`](steam://AddNonSteamGame)
+
 [project]: https://github.com/j-/steam-urls
